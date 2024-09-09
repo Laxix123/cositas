@@ -2,7 +2,7 @@ Proceso Primos
     Definir num, i, contPrimos, sumPrimos Como Entero
     Definir primo Como logico
     contadorPrimos <- 0
-    sumaPrimos <- 0
+    sumPrimos <- 0
     Escribir "Ingrese un número entero (0 para terminar): "
     Leer num
     Mientras num <> 0 Hacer
